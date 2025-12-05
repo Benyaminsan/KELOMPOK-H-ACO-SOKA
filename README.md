@@ -1,3 +1,14 @@
+# Kelas B Kelompok H
+
+| Nama                      | NRP        |
+|---------------------------|------------|
+|          Salomo           | 5027221063 |
+|       Gilang Raya         | 5027221045 |
+|      ALmendo Kambu        | 5027221073 |
+|      Nicholas Arya        | 5027231058 |
+|    Benjamin Khawarizmi H. | 5027231078 |
+
+
 # Pengujian Algoritma Task Scheduler pada Server IT
 
 Repo ini merupakan kode dari server yang digunakan dalam pengujian Task Scheduling pada Server IT serta contoh algoritma scheduler untuk keperluan mata kuliah **Strategi Optimasi Komputasi Awan (SOKA)**
